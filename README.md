@@ -16,7 +16,7 @@ Mueve el script que quieras usar a su carpeta correspondiente y usa /reload o re
  - [JavaScript](https://devdocs.io/javascript/)
 ## Soporte
 
-Para obtener asistencia, escríbeme por [Twitter](https://www.twitter.com/ImPavloh) o Discord [Pavloh#0001]
+Para obtener asistencia, escríbeme por [Twitter](https://www.twitter.com/ImPavloh) o Discord [Pavloh#6682]
 ## Autor
 
 - [@ImPavloh](https://www.twitter.com/ImPavloh)
