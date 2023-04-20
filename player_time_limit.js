@@ -1,3 +1,6 @@
+// Note: This code has been refactored and improved into a Spigot 1.19+ plugin.
+// Visit https://github.com/ImPavloh/PlayerTimeLimit for the updated version.
+
 var timeLimit = 14400; //Tiempo en segundos Ejemplo: 4 horas = 14400
 
 onEvent("player.tick", event => {
